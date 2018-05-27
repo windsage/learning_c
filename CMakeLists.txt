@@ -4,3 +4,5 @@ project(learning_c)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(learning_c main.cpp)
+
+add_executable(pointer pointer_test.cpp)
